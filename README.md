@@ -1,3 +1,5 @@
+# cour 1 
+
 # Definition
 - personne qui utilise un systeme informatisé
 - UID GID _linux_
@@ -18,4 +20,25 @@
 
 # répertoire personelle 
 - sur linux
-- sur windows 
+- sur windows
+
+
+# cour 2
+
+# La sécurité
+- IAM
+- 
+# Gestion des utilisateur (linux)
+- passwd
+- quelques commande administration utilisateur
+- shadow
+- group + commande utiles
+# Gestion des utilisateur (windows)
+- get-localuser
+- WMI
+- get-ciminstance
+- SAM
+- get-localgroup
+- commande utilisateur (29 , 30)
+- 
+
