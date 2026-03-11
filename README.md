@@ -40,5 +40,23 @@
 - SAM
 - get-localgroup
 - commande utilisateur (29 , 30)
+
+# cour 3
+# intro
+- émulation
+- virtualisation
+# avantages
+
+- 
+# inconvenients
+- point de defaillance unique
+- degradation des performance
+- complexité de l'analyse d'erreur
 - 
 
+# les types de virtualisation
+- hyperviseur de type 1 et 2
+- la virtualisation de stockage
+- la virtualisation du réseau
+
+#
