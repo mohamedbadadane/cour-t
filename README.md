@@ -22,4 +22,11 @@
 - 
 
 
-#
+# cour 2
+
+# les structure conditionelles
+- opérateur 
+- 
+# les structure itératives
+- boucle for
+- 
