@@ -29,4 +29,15 @@
 - 
 # les structure itératives
 - boucle for
+
+# cour 3
+# les fonction
+- retourn code
+- perimetre (local)
+
+# usage et bonne pratique
+- sheebang
+- mettre des commentaire
+- pas mettre sudo dans le script
+- utiliser des variables
 - 
