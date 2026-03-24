@@ -1,43 +1,23 @@
-# cour 1 
 
-# definition
-- dif script prog
-- objectif
-- shebang
-- code de sortie
-- 
-
-# la base 
-- metacaractéres
-- les commandes
-- quotes
-- 
-# variable
--donner des noms
-- nommage
-- unset
-- argument
-- variables speciales
-- environnement
 - 
 
 
 # cour 2
+- wild card et regex
+- code de sortie $? true false
+- opérateur de comparaison  chaines et nombre
+- operateur logique booléens
+- si ... sinon
+- switch
 
-# les structure conditionelles
-- opérateur 
-- 
-# les structure itératives
+# structure iterative
 - boucle for
+- boucle foreach
+- boucle while do while do until
 
-# cour 3
-# les fonction
-- retourn code
-- perimetre (local)
 
-# usage et bonne pratique
-- sheebang
-- mettre des commentaire
-- pas mettre sudo dans le script
-- utiliser des variables
+# les tableau 
+- initialisation de tableau
 - 
+
+
