@@ -18,6 +18,16 @@
 
 # les tableau 
 - initialisation de tableau
+
+# cour 3
+
+
+# les fonction
+- parametre
+
+# powershell a distance
+- commande p-10
 - 
+
 
 
